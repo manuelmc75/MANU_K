@@ -1,0 +1,14 @@
+header{border:2px solid grey;padding:5px;overflow: auto}
+section{border:2px solid grey;padding:5px;overflow:auto}
+span{color:slategray}
+table{margin:20px 20px 20px 50px;text-align: center;height: 300px;width: 1200px;overflow: scroll}
+th,td{text-align: center;}
+td{background-color: cadetblue;padding:10px 10px 10px 10px }
+th{background-color: aquamarine;padding:10px 10px 10px 10px}
+#imagen{max-width:55%;height:auto;margin:40px;padding:20px;display:block;}
+a.wiki_ast:hover{color:yellow}
+figure{float:left;margin:10px 5px 5px }
+img{padding:5px 10px 5px 10px;margin:2px;overflow: hidden;}
+.camino{padding:20px;margin:20px;width: 100px;height: 200px;display:inline-block}
+.indice{float: right;}
+.elmuro{clear: right;padding: 30px;margin:20px}
